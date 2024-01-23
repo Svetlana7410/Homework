@@ -20,6 +20,14 @@ git add filename
 git commit -m "Message"
 ```
 
+Журнал внесённых изменений в коммитах
+```sh
 git log
+```
+
+Сокращённый журнал
+```sh
 git log --oneline
+```
+
 git checkout
