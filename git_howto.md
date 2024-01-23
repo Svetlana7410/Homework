@@ -10,8 +10,11 @@ git init
 git status
 ```
 
+Добавим (сохраненим) изменения в коммит
+```sh
+git add filename
+```
 
-git add
 git commit - m "Message"
 git log
 git log --oneline
