@@ -15,7 +15,11 @@ git status
 git add filename
 ```
 
-git commit - m "Message"
+Передача сообщения о совершённых изменениях (комментарий)
+```sh
+git commit -m "Message"
+```
+
 git log
 git log --oneline
 git checkout
