@@ -17,7 +17,7 @@ git add filename
 
 Передача сообщения о совершённых изменениях (комментарий)
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 Журнал внесённых изменений в коммиты
