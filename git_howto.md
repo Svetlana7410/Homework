@@ -44,3 +44,4 @@ git branch
 git branch <имя_ветки>
 ```
 
+git branch -d <имя ветки>
